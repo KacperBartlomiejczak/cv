@@ -21,8 +21,7 @@ CAM heatmaps) in real time.
 [Github](https://github.com/KacperBartlomiejczak/Hello-Anime) | [Live](https://hello-anime-dun.vercel.app/)
 -  Built an anime discovery platform integrating Jikan REST API with a custom rate limiter to handle API throttling.
 -  Designed and implemented a relational database schema using Drizzle ORM to enable persistent user profiles and "Favorite Anime" collections.
--  Designed and implemented a relational database schema using Drizzle ORM to enable persistent user profiles and "Favorite Anime" collections.
--  
+-  Optimized search performance by implementing a custom debounce hook and responsive UI with Tailwind CSS.
 ### Personal Portfolio Website | Next.js, TypeScript, Framer Motion, Radix UI
 [GitHub](https://github.com/KacperBartlomiejczak/Portfolio-v4) | [Live Demo](https://kacperbartlomiejczak.me/)
 
