@@ -52,7 +52,7 @@ Software Engineering student specializing in Next.js 15, React 19, and TypeScrip
 ## Projects
 
 ### AI Anomaly Detector (Hackathon) | Next.js 15, TypeScript, WebSockets
-**January 2025**
+**December 2025**
 
 [GitHub](https://github.com/KacperBartlomiejczak/AI-Anomaly-Detector-HackNation) | [Live](https://hack-nation-anomalie-g8cg-kyqk810xx.vercel.app/)
 
