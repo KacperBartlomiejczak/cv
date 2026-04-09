@@ -30,70 +30,69 @@
 
 # Kacper Bartłomiejczak
 
-
-## Frontend Developer | Next.js · TypeScript · React | Open to internship
+## Frontend Developer | Next.js - TypeScript - React | Open to internship
 
 Kacperbartlomiejczak@proton.me | +48 735 073 051 | [LinkedIn](https://www.linkedin.com/in/kacper-bartlomiejczak-b12a19385/) | [GitHub](https://github.com/KacperBartlomiejczak) | Toruń, Poland
 
 ## Profile Summary
 
-Software Engineering student specializing in Next.js 15, React 19, and TypeScript. Proven track record delivering production applications from concept to deployment, including 48-hour hackathon project for government client (National Revenue Administration). Seeking fullstack development internship to contribute modern web development expertise.
+Computer Science student building fast, modern web apps with Next.js 16 and React 19. Recently developed a working dashboard for the National Revenue Administration (KAS) during a 48-hour hackathon. Looking for a fullstack or frontend internship to write solid code, contribute to real projects, and learn from an experienced team.
 
 ## Work Experience
 
 ### IT Equipment Technician | Flex, Venray, Netherlands
-**July 2025 – August 2025**
+**July 2025 - August 2025**
 
-- Refurbished 150+ enterprise devices (MacBooks, Windows laptops) performing factory resets and hardware diagnostics
-- Self-taught technical procedures across macOS and Windows platforms, becoming team reference for troubleshooting
-- Achieved 99% accuracy rate in quality control through systematic documentation and process optimization
-- Collaborated with 2+ team members from 2+ countries in English-speaking environment
+- Diagnosed and refurbished over 150 enterprise devices (MacBooks and Windows laptops)
+- Quickly learned hardware troubleshooting for both macOS and Windows, often helping teammates with technical issues
+- Ensured high-quality device processing through careful documentation and systematic testing
+- Worked and communicated daily in English within an international team
 
 ## Projects
 
-### AI Anomaly Detector (Hackathon) | Next.js 15, TypeScript, WebSockets
+### AI Anomaly Detector (Hackathon) | Next.js 16, TypeScript, WebSockets
 **December 2025**
 
 [GitHub](https://github.com/KacperBartlomiejczak/AI-Anomaly-Detector-HackNation) | [Live](https://hack-nation-anomalie-g8cg-kyqk810xx.vercel.app/)
 
-- Developed real-time X-ray detection dashboard for National Revenue Administration (KAS) in 48-hour competitive hackathon
-- Architected type-safe API contract using TypeScript Discriminated Unions, eliminating runtime type errors
-- Created custom WebSocket hook delivering ML inference results (Base64 + GradCAM heatmaps) with <100ms latency
-- Collaborated with 3-person team using Git workflow and Vercel deployment pipeline
+- Built a real-time dashboard for customs officers to analyze X-ray scans and detect smuggling, developed during a 48-hour hackathon
+- Integrated the frontend with a PyTorch ML model, ensuring the application smoothly handles and renders large 50MB image files
+- Set up WebSockets to deliver analysis results and GradCAM heatmaps instantly to the user interface
+- Collaborated in a 3-person team, managing the Git workflow and Vercel deployments
 
-### HelloAnime! | Next.js 15, TypeScript, Drizzle ORM
+### HelloAnime! | Next.js 16, TypeScript, Tailwind v4, NextAuth
 **2025**
 
 [GitHub](https://github.com/KacperBartlomiejczak/Hello-Anime) | [Live](https://hello-anime-dun.vercel.app/)
 
-- Engineered anime discovery platform integrating Jikan REST API, handling 1000+ daily requests with custom rate limiter
-- Designed relational PostgreSQL database schema using Drizzle ORM supporting user authentication and favorite collections
-- Reduced search response time by 60% implementing custom debounce hook and optimized API call patterns
-- Deployed on Vercel with 99.9% uptime and responsive UI achieving 90+ Lighthouse performance score
+- Created a responsive anime discovery platform using the Jikan API, styled with Tailwind CSS v4 and Framer Motion for smooth interactions
+- Set up a PostgreSQL database with Drizzle ORM and implemented user authentication via NextAuth so users can save their favorite shows
+- Optimized the search bar with a custom debounce hook to make finding series fast and seamless
+- Deployed on Vercel, achieving a clean UI and solid Lighthouse performance scores
 
-### Personal Portfolio Website | Next.js, TypeScript, Framer Motion, Radix UI
+### Personal Portfolio Website | Next.js 16, TypeScript, Framer Motion, next-intl
 **2025**
 
 [GitHub](https://github.com/KacperBartlomiejczak/Portfolio-v4) | [Live](https://kacperbartlomiejczak.me/)
 
-- Constructed modular component library with 45+ reusable UI elements using Radix UI primitives and custom React hooks
-- Delivered full internationalization supporting 2 languages (EN/PL) with SEO optimization (OpenGraph, hreflang tags)
-- Integrated GDPR-compliant cookie consent system and type-safe contact form with React Hook Form validation
-- Achieved 95+ Lighthouse performance score through code splitting and image optimization strategies
+- Built a personal website focusing on high performance (95+ Lighthouse score), responsive design, and clean code
+- Implemented full bilingual support (English and Polish) using next-intl
+- Integrated a working contact form connected to EmailJS and set up a GDPR-compliant cookie consent banner
+- Used modular Radix UI components and custom React hooks to keep the codebase maintainable
 
 ## Education
 
 ### Nicolaus Copernicus University in Toruń
-**Bachelor of Science in Computer Science** (2023 – 2028 expected)
+**Bachelor of Science in Computer Science** (2023 - 2028 expected)
 
 Relevant coursework: Algorithms & Data Structures, Database Systems, Web Technologies, Object-Oriented Programming
 
 ## Technical Skills
 
-- **Frontend:** JavaScript (ES6+), TypeScript, React 19, Next.js 15 (App Router), Tailwind CSS, Framer Motion, Radix UI
-- **Backend & Database:** Drizzle ORM, PostgreSQL (Neon), REST API design, WebSocket real-time communication
+- **Frontend:** JavaScript (ES6+), TypeScript, React 19, Next.js 16 (App Router), Tailwind CSS, Framer Motion, Radix UI
+- **Backend & Database:** Drizzle ORM, PostgreSQL (Neon), NextAuth, REST API, WebSockets
 - **Developer Tools:** Git, GitHub, npm/pnpm, Vercel, VS Code, Chrome DevTools
-- **Languages:** Polish (Native), English (Professional working proficiency — international work experience)
+- **Languages:** Polish (Native), English (Professional working proficiency)
 
 ---
 
