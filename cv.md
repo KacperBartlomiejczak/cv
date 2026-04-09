@@ -30,7 +30,8 @@
 
 # Kacper Bartłomiejczak
 
-## Fullstack Developer | Student | Next.js, TypeScript, React
+
+## Frontend Developer | Next.js · TypeScript · React | Open to internship
 
 Kacperbartlomiejczak@proton.me | +48 735 073 051 | [LinkedIn](https://www.linkedin.com/in/kacper-bartlomiejczak-b12a19385/) | [GitHub](https://github.com/KacperBartlomiejczak) | Toruń, Poland
 
@@ -41,12 +42,12 @@ Software Engineering student specializing in Next.js 15, React 19, and TypeScrip
 ## Work Experience
 
 ### IT Equipment Technician | Flex, Venray, Netherlands
-**July 2024 – September 2024**
+**July 2025 – August 2025**
 
 - Refurbished 150+ enterprise devices (MacBooks, Windows laptops) performing factory resets and hardware diagnostics
 - Self-taught technical procedures across macOS and Windows platforms, becoming team reference for troubleshooting
 - Achieved 99% accuracy rate in quality control through systematic documentation and process optimization
-- Collaborated with 15+ team members from 8+ countries in English-speaking environment
+- Collaborated with 2+ team members from 2+ countries in English-speaking environment
 
 ## Projects
 
