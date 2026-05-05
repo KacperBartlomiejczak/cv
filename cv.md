@@ -53,7 +53,7 @@ Computer Science student building fast, modern web apps with Next.js 16 and Reac
 ### AI Anomaly Detector (Hackathon) | Next.js 16, TypeScript, WebSockets
 **December 2025**
 
-[GitHub](https://github.com/KacperBartlomiejczak/AI-Anomaly-Detector-HackNation) | [Live](https://hack-nation-anomalie-g8cg-kyqk810xx.vercel.app/)
+[GitHub](https://github.com/KacperBartlomiejczak/AI-Anomaly-Detector-HackNation) | [Live](https://hack-nation-anomalie-g8cg.vercel.app/)
 
 - Built a real-time dashboard for customs officers to analyze X-ray scans and detect smuggling, developed during a 48-hour hackathon
 - Integrated the frontend with a PyTorch ML model, ensuring the application smoothly handles and renders large 50MB image files
@@ -73,7 +73,7 @@ Computer Science student building fast, modern web apps with Next.js 16 and Reac
 ### Personal Portfolio Website | Next.js 16, TypeScript, Framer Motion, next-intl
 **2025**
 
-[GitHub](https://github.com/KacperBartlomiejczak/Portfolio-v4) | [Live](https://kacperbartlomiejczak.me/)
+[GitHub](https://github.com/KacperBartlomiejczak/Portfolio-v4) | [Live](https://kacperbartlomiejczak.pl/)
 
 - Built a personal website focusing on high performance (95+ Lighthouse score), responsive design, and clean code
 - Implemented full bilingual support (English and Polish) using next-intl
